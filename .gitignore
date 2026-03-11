@@ -211,5 +211,7 @@ __pycache__/
 .idea/
 data/
 results/
+paper/
+docs/
 *.log
 >>>>>>> 2af129d (force remove nested git repositories)
